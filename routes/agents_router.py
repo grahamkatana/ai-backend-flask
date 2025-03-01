@@ -7,7 +7,7 @@ main = Blueprint("agents_blueprint", __name__)
 
 @main.route("/", methods=["GET"])
 def get_all_agents():
-    return get_all
+    return get_all()
 
 
 @main.errorhandler(ValidationError)
