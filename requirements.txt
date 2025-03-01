@@ -11,3 +11,11 @@ SQLAlchemy
 pandas
 numpy
 PyMySQL
+bcrypt
+Flask-Bcrypt
+click
+Flask-JWT-Extended
+Flask-Mail
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow
