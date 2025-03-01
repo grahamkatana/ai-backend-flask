@@ -1,0 +1,13 @@
+alembic
+Flask
+requests
+Flask-Cors
+Flask-Migrate
+Flask-SQLAlchemy
+gunicorn
+pillow
+python-dotenv
+SQLAlchemy
+pandas
+numpy
+PyMySQL
