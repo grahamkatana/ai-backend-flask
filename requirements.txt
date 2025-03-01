@@ -19,3 +19,4 @@ Flask-Mail
 flask-marshmallow
 marshmallow-sqlalchemy
 marshmallow
+cryptography

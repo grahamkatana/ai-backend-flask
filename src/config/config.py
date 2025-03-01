@@ -1,7 +1,7 @@
 import os
 from datetime import timedelta
 from dotenv import load_dotenv
-from app.utils.database_connector import get_connection_string
+from src.utils.database_connector import get_connection_string
 
 load_dotenv()
 
